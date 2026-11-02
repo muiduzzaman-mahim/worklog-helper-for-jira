@@ -11,11 +11,6 @@ A Chrome side panel that makes everyday Jira work faster. Create tasks, log hour
 
 Works with Jira Cloud (`yourcompany.atlassian.net`) in Google Chrome 114 or newer.
 
-# Notice
-Copyright (c) Muiduzzaman Mahim. All rights reserved.<br>
-Developed by Muiduzzaman Mahim, powered by Shadhin Tech. <br>
-Worklog Helper for Jira is an independent tool. It is not affiliated with, endorsed by or sponsored by Atlassian. Jira and Atlassian are trademarks of Atlassian.
-
 Current version: **1.1.0** ([changelog](CHANGELOG.md)). Short version for the team: [Quick Guide](docs/QUICK_GUIDE.md).
 
 ![Use the Jira login you already have](docs/images/01-connect-with-your-jira-login.png)
@@ -145,6 +140,6 @@ Tried it? Please tell us what works, what is confusing and what is missing. Bugs
 
 Developed by **Muiduzzaman Mahim**, powered by **Shadhin Tech**.
 
-Copyright (c) Muiduzzaman Mahim / Shadhin Tech. All rights reserved. See [NOTICE](NOTICE.md).
+Copyright (c) Muiduzzaman Mahim. All rights reserved.
 
 Worklog Helper for Jira is an independent tool. It is not affiliated with, endorsed by or sponsored by Atlassian. Jira and Atlassian are trademarks of Atlassian.
