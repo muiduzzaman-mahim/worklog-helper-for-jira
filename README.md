@@ -11,7 +11,7 @@ A Chrome side panel that makes everyday Jira work faster. Create tasks, log hour
 
 Works with Jira Cloud (`yourcompany.atlassian.net`) in Google Chrome 114 or newer.
 
-Current version: **1.1.0** ([changelog](CHANGELOG.md)). Short version for the team: [Quick Guide](docs/QUICK_GUIDE.md).
+Current version: **1.1.1** ([changelog](CHANGELOG.md)). Short version for the team: [Quick Guide](docs/QUICK_GUIDE.md).
 
 ![Use the Jira login you already have](docs/images/01-connect-with-your-jira-login.png)
 
