@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1
+
+- Review request now covers only the tab you are on. A draft in the other tab is no longer included.
+- After everything is sent, that tab's form clears automatically. If something fails, your entries are kept so you can fix them and try again.
+- Switching tabs closes an open review, so you cannot confirm a review that belongs to the other tab.
+
 ## 1.1.0
 
 - Connect with the Jira login you already have in Chrome. No API token needed. The extension calls Jira directly first and falls back to your own Jira tab only if Jira does not accept that. The API token is still available under "advanced".
